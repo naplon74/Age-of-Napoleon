@@ -1,4 +1,4 @@
-# Age of Napoléon |Credits
+# Age of Napoléon | Credits
 Age of Napoléon
 
 ----------------A mod by :
