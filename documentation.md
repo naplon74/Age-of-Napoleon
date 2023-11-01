@@ -1,3 +1,5 @@
+# Bug fixing
+
 **Sometime for unknown reason, the game crashes when the event "Caucasus conquest" is happening.** 
 
 To fix that simply starts the game with the original file than with the shortcut or the launcher.
