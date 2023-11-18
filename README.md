@@ -18,6 +18,7 @@ Translator:
 Naplon_  (Original events text and idea's )
 
 visernata & winicjusz2016 (Making events betters and loungers)
+
 banana01794 (For grammars / spellings mistakes correction)
 
 
