@@ -13,28 +13,40 @@ winicjusz2016
 
 Translator:
 
-English :
+**English :**
+
 Naplon_  (Original events text and idea's )
+
 visernata & winicjusz2016 (Making events betters and loungers)
 banana01794 (For grammars / spellings mistakes correction)
 
-French : Naplon_
 
-Polish : chomiq_6207
+**French :** 
+Naplon_
 
-Italian : rometurin2
+**Polish :**
+chomiq_6207
 
-Turkish : .jewishdejjal
+**Italian :**
+rometurin2
 
-Spanish : .alexneon
+**Turkish :**
+.jewishdejjal
 
-Serbian (Cyrillic) : the_amazing_dude
+**Spanish :**
+.alexneon
 
-Serbian (Latin) : idiotfbg
+**Serbian (Cyrillic) :**
+the_amazing_dude
 
-Romanian : logan_mega
+**Serbian (Latin) :**
+idiotfbg
 
-Vietnamese : unknownablevnese5
+**Romanian :**
+logan_mega
+
+**Vietnamese :**
+unknownablevnese5
 
 
-Join our Discord : https://discord/5cZAyDwQT5
+[Join our Discord :](https://discord/5cZAyDwQT5)
